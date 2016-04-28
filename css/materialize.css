@@ -2629,6 +2629,7 @@ optgroup {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+  background-color: #ffffff;
 }
 
 td,
@@ -3013,8 +3014,8 @@ table.highlight > tbody > tr {
 }
 
 table.highlight > tbody > tr:hover {
-  background-color: #137B9E;
-  color: #ffffff
+  background-color: #bdbdbd;
+  color: #ffffff;
 }
 
 table.centered thead tr th, table.centered tbody tr td {
